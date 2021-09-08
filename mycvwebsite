@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8" />
+        <title>Murari Thakur</title>
+        <link rel = "icon" href ="images/favicon.ico"
+        type="image/x-icon">
+        <link rel="stylesheet" href="default2.css">
+    </head>
+
+    
+    <body>
+        <div>
+            <table cellspacing="25">
+                <tr>
+                    <td><img width="150" src="D:\myworkspacmoha\html learning\muraribhaiya.html\images\murari2.png" alt=""></td>
+                    <td><h3>Murari Thakur</h3>
+                     <strong>Junior Banking Officer</strong> 
+                    </td>>
+                </tr>
+                
+            </table>
+        </div>  
+        <hr size="3" color="red">
+        <div>
+            <table cellspacing="75">
+                <tr>
+                    <td><h3>INTRODUCTION:</h3></td>
+                    <td>I am a <em> hardworking</em> individual who has <strong> completed 12th std. Commerce </strong>
+                        and is now pursuing , <strong>graduation</strong> in <strong> <a href="https://www.sarvgyan.com/courses/commerce/bcom">B.com</a>.</strong>
+                        While i am studying my  <a href="http://www.niit.com/"><strong>NIIT</strong></a> <strong>Certificate in banking and Finance</strong>
+                        I have <strong> two years of Working Expericence</strong> as an <strong>Office assistant</strong> as well as <strong>Field Technical Officer</strong>
+                        for a telecommunication company.
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table cellspacing="75">
+                <tr>
+                    <td><h3>EDUCATION:</h3></td>
+                    <td>
+                        <ul>
+                            <li><strong><a href="http://www.niit.com/">NIIT Banking & Finance</a></strong></li>( joined it 3 years ago)
+                            <li><strong><a href="https://www.lsraheja.org/">L.S RAHEJA</a></strong></li>(3 years Masters <strong>B.COM</strong> July 2019-march 2022 )
+                            <li><strong><a href="https://mkscollege.edu.in/">Malini Kishor Sanghvi Junior College</strong>.</a></li>(Commerce XIIth std. 2017-2019)
+                            <li><strong><a href="http://guruharkrishanmumbai.edu.in/">Guru Harkrishan School High School</a></strong></li>(From 1st-10th std. 2011 - 2017)
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table cellspacing="35">
+                <tr>
+                    <td><h3>Working Expericences</h3></td>
+                    <td>
+                        <ul>
+                            <li><a href="https://angelxpress.org/">Angel Xpress Foundation</a></li>(<strong>Office assistant</strong> June 2017 - May 2018)
+                            <li><a href="https://www.google.com/search?q=jd%20cable&oq=jd+cable&aqs=chrome..69i57.2726j0j1&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:2&tbm=lcl&rflfq=1&num=10&rldimm=3935577078570493425&lqi=CghqZCBjYWJsZUjBtay6_a-AgAhaEhAAEAEYABgBIghqZCBjYWJsZZIBGWludGVybmV0X3NlcnZpY2VfcHJvdmlkZXI&ved=2ahUKEwi9z8u_otjyAhXfH7cAHR3ICxUQvS4wAHoECAcQLQ&rlst=f#rlfi=hd:;si:;mv:[[19.0801128,72.8295694],[19.0771729,72.8287132]]">JD CABLE</a></li>(<strong>Field Technical officer</strong> June 2018 - March 2019)
+                            <li><a href="https://licindia.in/Guidelines/Be-an-Agent-(Individual)">LIC Agent</a></li>(<strong>Working currently</strong>)
+                            <li><a href="https://walkforacause.in/about-us/">NGO - Walk for a Cause,</a></li>(<strong>handling social media and administration work</strong>)
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table cellspacing="25">
+                <tr>
+                    <td><h3>KNOWLEDGE & SKILLS</h3></td>
+                    <td>
+                        <ul>
+                            <li><a href="https://www.investopedia.com/terms/s/social-networking.asp">Socail network</a></li>
+                            <li><a href="https://financial.math.ncsu.edu/what-is-financial-math/">Financial Maths</a></li>
+                            <li><a href="https://www.flexjobs.com/blog/post/data-entry-jobs-legitimate/">Data entry</a></li>
+                            <li><a href="https://www.deskera.com/blog/billing/">Billing</a></li>
+                            <li><a href="https://docs.microsoft.com/en-us/learn/certifications/courses/md-100t04">MS Window Maintenance</a></li>
+                            <li><a href="https://www.programiz.com/cpp-programming">C++</a></li>
+                            <li><a href="https://www.investopedia.com/terms/b/budget.asp">Budgeting</a></li>
+                            <li><a href="https://your.yale.edu/work-yale/learn-and-grow/training/clerical-technical-training-and-development/microsoft-office">MS Office(Advanced Level)</a></li>
+                            <li><a href="https://klic.mkcl.org/accounting/advanced-tally#:~:text=KLiC%20Advanced%20Tally%20offers%20detailed,Tax%2C%20TDS%2C%20TCS%20and%20Excise">Tally advanced Level </a></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table cellspacing="45">
+                <tr>
+                    <td><h3>RECENT COURSES</h3></td>
+                    <td>
+                        <ul>
+                            <li>2019: Advanced MS Excel for finances.</li>
+                            <li>2019 - Currently: Taxation and finance in India.</li>
+                            <li>2019 - Currently: Advanced Tally.</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table cellspacing="85">
+                <tr>    
+                    <td><h3>HOBBIES</h3></td>
+                    <td>
+                        <ol>
+                            <li>Music</li>
+                            <li>Writing</li>
+                            <li>Cooking</li>
+                            <li>Gym</li>
+                        </ol>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table cellspacing="65">
+                <tr>
+                    <td><h3>LANGAGUGE</h3></td>
+                    <td>
+                        <ul>
+                            <li><strong>English.</strong> Negotiation level</li>
+                            <li><strong>Hindi.</strong> Native Speaker</li>
+                            <li><strong>Marathi.</strong> Intermediate</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <hr size="3" color="red">
+        <div>
+            <table cellspacing="45">
+                <tr>
+                    <td><h2>FOLLOW ME :</h2></td>
+                    <td>
+                        <ul>
+                            <li> <a href="linkedIn.com/murari.thakur">LinkedIn</a></li>
+                            <li><a href="https://twitter.com/murarit49314385">TWITTER</a></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
